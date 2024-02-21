@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "ee5fc29fbfe2e611",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f8aecd99f1a8b28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cba19ab9bf4dea90",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4fa495c0d21751b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6912a5bfbe989542",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81d3c94274fe0b53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b4efb4e1dd9e5f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#정처기",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e84205aac77c69c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320
+  },
+  "right": {
+    "id": "0bfd8d1c59d08bd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfac779edab19239",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c55babedb7773e4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7f3302be1e8bd62d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42c22997bac0d9cc",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "kr-book-info-plugin:Add Book Info": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "cba19ab9bf4dea90",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "_posts/planning/2020 Planner Flower 8 x 10 Planner features Yearly and Monthly planning for 12 months Jan 1 to Dec 31 2020 with Flower Art on a durable.md",
+    "_posts/planning/2024-02-21-planning2.md",
+    "_posts/planning/Untitled.md",
+    "_posts/etc/2022-12-10-fashion0.md",
+    "_posts/os/2022-05-09-nineth2op1.md",
+    "_posts/os/2022-05-09-nineth2op2.md",
+    "_posts/etc/2022-12-10-fashion.md",
+    "_posts/etc/2022-05-08-eighth2.md",
+    "_posts/etc/2022-05-07-sixth2.md",
+    "_posts/etc/2022-05-05-Fifth2.md",
+    "_posts/etc/2022-05-04-fourth2.md",
+    "_posts/etc/2022-05-03-third2.md",
+    "_posts/etc/2022-05-02-second2.md",
+    "_posts/etc/2022-04-12-fifth1.md",
+    "_posts/java/2022-12-10-java04.md",
+    "_posts/java/2022-12-10-java03.md",
+    "_posts/java/2022-12-10-java02.md",
+    "_posts/java/2022-12-10-java01.md",
+    "_posts/java/2022-12-08-java00.md",
+    "_posts/java/2022-07-28-article3.md",
+    "_posts/java/2022-07-28-article2.md",
+    "_posts/java/2022-07-28-article1.md",
+    "_posts/java/2023-02-11-java05.md",
+    "_posts/planning/2022-12-10-planning7.md",
+    "_posts/planning/2022-12-10-planning6.md"
+  ]
+}

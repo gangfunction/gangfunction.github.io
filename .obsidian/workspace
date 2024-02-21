@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "ee5fc29fbfe2e611",
+    "type": "split",
+    "children": [
+      {
+        "id": "698997f381d9fd11",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4fa495c0d21751b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6912a5bfbe989542",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81d3c94274fe0b53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b4efb4e1dd9e5f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#정처기",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.5
+  },
+  "right": {
+    "id": "0bfd8d1c59d08bd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfac779edab19239",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c55babedb7773e4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7f3302be1e8bd62d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317,
+    "collapsed": true
+  },
+  "active": "698997f381d9fd11",
+  "lastOpenFiles": [
+    "_posts/2022-11-14-coffee1.md",
+    "_posts/2022-09-22-frontend2.md",
+    "_posts/2022-09-22-frontend1.md",
+    "_posts/2022-07-28-article3.md",
+    "_posts/2022-07-06-solution25.md",
+    "_posts/2022-07-06-react1.md",
+    "_posts/2022-07-06-solution24.md",
+    "_posts/2022-07-06-solution23.md",
+    "_posts/2022-07-03-solution22.md",
+    "_posts/2022-07-03-solution21.md"
+  ]
+}

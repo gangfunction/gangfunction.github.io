@@ -1,0 +1,22 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#2f92e4",
+      "directory": "Events"
+    },
+    {
+      "type": "ical",
+      "color": "#2f92e4",
+      "url": "webcal://p38-caldav.icloud.com/published/2/MTcxNjgyODI4NDkxNzE2OFg_f4QcwswHspWL2sOANz3nxru9r9GWtkFtvcidhxVH4LqDFLjZw-GT1L9T7zg_bAkh9pws8zZct1KQtW2gpiQ"
+    }
+  ],
+  "defaultCalendar": 0,
+  "recursiveLocal": true,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}
